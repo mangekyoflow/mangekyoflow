@@ -1,37 +1,105 @@
-<h1 align="center">Hola! 👋, I'm Akhil Kumar Reddy Pasham</h1>
-<h3 align="center">A passionate full-stack developer from Australia.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pashamakhilkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="pashamakhilkumarreddy" /> </p>
+<!-- 🎬 HERO BANNER: The Shinobi Slash & Scroll Dossier -->
+<img src="./hero.svg?v=7" alt="Akhil Pasham — Full-Stack Engineer | Melbourne, Australia — Naruto x Demon Slayer Profile Banner" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pashamakhilkumarreddy" alt="pashamakhilkumarreddy" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working at [Codvo](https://www.codvo.ai/)
-
-- 🌱 I’m currently learning **Investment Banking, Information Security and Machine Learning**
-
-- 💬 Ask me about **React, Vue, Javascript, Python, FastAPI, Kubernetes**
-
-- 📫 How to reach me **https://flowcv.me/akhilp**
-
-- 📄 Know about my experiences [Akhil](https://flowcv.me/akhilp)
-
-- ⚡ Fun fact **I can deadlift twice my body weight.**
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/pashamakhilkumarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pashamakhilkumarreddy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pasham-akhil-kumar-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pasham-akhil-kumar-reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/akhilkumarreddy.pasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhilkumarreddy.pasham" height="30" width="40" /></a>
+<!-- ⚔️ TRIO COMBAT LOOP & WILL OF FIRE -->
+<p align="center">
+  <img src="./team7-dance.gif" alt="Team 7 Chibi Dance" width="280" style="max-width: 100%; border-radius: 12px; margin: 4px; vertical-align: middle;"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- 👁️ BELIEVE IN THE CODE: JUJUTSU KAISEN DOMAIN EXPANSION -->
+<img src="./ninja-way.svg?v=11" alt="Believe it — then ship it | Jujutsu Kaisen Satoru Gojo &amp; Yuji Itadori Domain Expansion" width="100%"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pashamakhilkumarreddy&show_icons=true&locale=en&layout=compact" alt="pashamakhilkumarreddy" /></p>
+<br/>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pashamakhilkumarreddy&show_icons=true&locale=en" alt="pashamakhilkumarreddy" /></p>
+<!-- 🔦 JUTSU ARSENAL: TOOLS I FIGHT WITH (HASHIRAMA SAGE MODE & THOUSAND HANDS BUDDHA) -->
+<img src="./jutsu-stack.svg?v=10" alt="Jutsu Arsenal — Tools I fight with | Hashirama Senju Sage Mode &amp; Thousand Hands Buddha" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pashamakhilkumarreddy&" alt="pashamakhilkumarreddy" /></p> -->
+<br/>
+
+<!-- 🪪 DEMON SLAYER CORPS DOSSIER & COMBAT INTELLIGENCE -->
+<img src="./ninja-id.svg?v=15" alt="Akhil Pasham — Wind Hashira Lanyard ID Badge &amp; Field Mission Dashboard" width="100%"/>
+
+<br/>
+
+</div>
+
+## 🍥 S-Rank Missions &amp; Demon Moon Hunts 🗡️
+
+<table>
+<thead>
+<tr>
+  <th align="left" width="24%">Mission / Scroll</th>
+  <th align="left" width="46%">Objective &amp; Architecture</th>
+  <th align="left" width="20%">Jutsu / Technique</th>
+  <th align="center" width="10%">Rank</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="https://github.com/mangekyoflow/nestjs-microservices"><b>NestJS Microservices</b></a></td>
+  <td>Enterprise distributed RESTful microservices with Nx monorepo, Docker containers, and automated Swagger contracts.</td>
+  <td><code>TypeScript</code> <code>NestJS</code> <code>Docker</code> <code>Nx</code></td>
+  <td align="center">⚡&nbsp;<b>S-Rank</b></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/mangekyoflow/nestjs-starter"><b>NestJS Production Starter</b></a></td>
+  <td>Battle-hardened enterprise scaffold bundling NestJS, PostgreSQL relational storage, Redis caching, and Docker.</td>
+  <td><code>NestJS</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></td>
+  <td align="center">📜&nbsp;<b>A-Rank</b></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/mangekyoflow/mangekyoflow.github.io"><b>Mangekyō Dimension Hub</b></a></td>
+  <td>Personal digital sanctum and cloud-hosted interactive engineering portfolio space.</td>
+  <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
+  <td align="center">👁️&nbsp;<b>Kamui</b></td>
+</tr>
+</tbody>
+</table>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/mangekyoflow?tab=repositories"><b>→ Explore all 216+ Shinobi Scrolls &amp; Open Source Repositories</b></a>
+
+<br/>
+
+<img src="./naruto-six-paths-rasengan.png" alt="Naruto Uzumaki Six Paths Sage Mode with Rasengan" width="170"/>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city night view" width="100%"/>
+
+<br/>
+
+<!-- 🩸 LET'S BUILD SOMETHING LEGENDARY: SUKUNA MALEVOLENT SHRINE -->
+<img src="./connect.svg?v=13" alt="Let's build something legendary | Ryomen Sukuna Malevolent Shrine Connect Banner" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/mangekyoflow"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub Profile"/></a>
+<a href="mailto:pashamakhilkumarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email Direct"/></a>
+<a href="https://linkedin.com/in/pashamakhilkumarreddy"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+<a href="https://mangekyoflow.github.io/"><img src="https://img.shields.io/badge/Portfolio-2fd48a?style=for-the-badge&logo=googlechrome&logoColor=0b0d13" alt="Portfolio Website"/></a>
+<a href="https://stackoverflow.com/users/pasham-akhil-kumar-reddy"><img src="https://img.shields.io/badge/Stack_Overflow-ff9100?style=for-the-badge&logo=stackoverflow&logoColor=0b0d13" alt="Stack Overflow"/></a>
+<a href="https://instagram.com/akhilkumarreddy.pasham"><img src="https://img.shields.io/badge/Instagram-c77dff?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram Profile"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mangekyoflow&color=ff7a1a&style=for-the-badge&label=CHAKRA+VISITORS" alt="Profile views counter"/>
+
+<br/>
+
+<img src="./tanjiro-nezuko-walk.gif" alt="Young Tanjiro carrying toddler Nezuko on his journey" width="130"/>
+
+<br/>
+
+**“心を燃やせ — Set your heart ablaze, and never compromise your code.”** 🍥 🔥 👁️
+
+</div>
