@@ -1,31 +1,26 @@
 <div align="center">
 
-<!-- 🎬 HERO BANNER: The Shinobi Slash & Scroll Dossier -->
-<img src="./hero.svg?v=7" alt="Akhil Pasham — Full-Stack Engineer | Melbourne, Australia — Naruto x Demon Slayer Profile Banner" width="100%"/>
+<img src="./hero.svg?v=7" alt="Akhil Pasham - Full-Stack Engineer | Melbourne, Australia - Naruto x Demon Slayer Profile Banner" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- ⚔️ TRIO COMBAT LOOP & WILL OF FIRE -->
 <p align="center">
   <img src="./team7-dance.gif" alt="Team 7 Chibi Dance" width="280" style="max-width: 100%; border-radius: 12px; margin: 4px; vertical-align: middle;"/>
 </p>
 
-<br/>
+<br/><br/>
 
-<!-- 👁️ BELIEVE IN THE CODE: JUJUTSU KAISEN DOMAIN EXPANSION -->
-<img src="./ninja-way.svg?v=11" alt="Believe it — then ship it | Jujutsu Kaisen Satoru Gojo &amp; Yuji Itadori Domain Expansion" width="100%"/>
+<img src="./ninja-way.svg?v=11" alt="Believe it - then ship it | Jujutsu Kaisen Satoru Gojo &amp; Yuji Itadori Domain Expansion" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- 🔦 JUTSU ARSENAL: TOOLS I FIGHT WITH (HASHIRAMA SAGE MODE & THOUSAND HANDS BUDDHA) -->
-<img src="./jutsu-stack.svg?v=10" alt="Jutsu Arsenal — Tools I fight with | Hashirama Senju Sage Mode &amp; Thousand Hands Buddha" width="100%"/>
+<img src="./jutsu-stack.svg?v=10" alt="Jutsu Arsenal - Tools I fight with | Hashirama Senju Sage Mode &amp; Thousand Hands Buddha" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- 🪪 DEMON SLAYER CORPS DOSSIER & COMBAT INTELLIGENCE -->
-<img src="./ninja-id.svg?v=15" alt="Akhil Pasham — Wind Hashira Lanyard ID Badge &amp; Field Mission Dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=15" alt="Akhil Pasham - Wind Hashira Lanyard ID Badge &amp; Field Mission Dashboard" width="100%"/>
 
-<br/>
+<br/><br/>
 
 </div>
 
@@ -64,24 +59,23 @@
 
 <div align="center">
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/mangekyoflow?tab=repositories"><b>→ Explore all 216+ Shinobi Scrolls &amp; Open Source Repositories</b></a>
 
-<br/>
+<br/><br/>
 
 <img src="./naruto-six-paths-rasengan.png" alt="Naruto Uzumaki Six Paths Sage Mode with Rasengan" width="170"/>
 
-<br/>
+<br/><br/>
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city night view" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- 🩸 LET'S BUILD SOMETHING LEGENDARY: SUKUNA MALEVOLENT SHRINE -->
 <img src="./connect.svg?v=13" alt="Let's build something legendary | Ryomen Sukuna Malevolent Shrine Connect Banner" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/mangekyoflow"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub Profile"/></a>
 <a href="mailto:pashamakhilkumarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email Direct"/></a>
@@ -94,12 +88,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=mangekyoflow&color=ff7a1a&style=for-the-badge&label=CHAKRA+VISITORS" alt="Profile views counter"/>
 
-<br/>
+<br/><br/>
 
 <img src="./tanjiro-nezuko-walk.gif" alt="Young Tanjiro carrying toddler Nezuko on his journey" width="130"/>
 
-<br/>
+<br/><br/>
 
-**“心を燃やせ — Set your heart ablaze, and never compromise your code.”** 🍥 🔥 👁️
+**“心を燃やせ - Set your heart ablaze, and never compromise your code.”** 🍥 🔥 👁️
 
 </div>
