@@ -241,11 +241,11 @@
       <circle cx="102" cy="27" r="2.5" fill="#2fd48a" opacity="0.6"/>
     </g>
 
-    <!-- Badge 2: S-Rank Scale -->
+    <!-- Badge 2: Deploys -->
     <g transform="translate(132, 0)">
       <rect width="118" height="54" rx="12" fill="#131929" stroke="#253248" stroke-width="1.2"/>
-      <text x="16" y="30" font-size="20" font-weight="900" fill="#00f5d4">S-RANK</text>
-      <text class="mono" x="16" y="45" font-size="9" font-weight="700" fill="#8898b0" letter-spacing="1.6">SCALE</text>
+      <text x="16" y="30" font-size="22" font-weight="900" fill="#00f5d4">8+</text>
+      <text class="mono" x="16" y="45" font-size="9" font-weight="700" fill="#8898b0" letter-spacing="1.6">DEPLOYS</text>
     </g>
 
     <!-- Badge 3: Hashira Rank -->

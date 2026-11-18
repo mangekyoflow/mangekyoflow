@@ -319,7 +319,7 @@
     <!-- BOTTOM PHILOSOPHY TAGLINE -->
     <g transform="translate(530, 375)">
       <text class="mono" font-size="10.5" font-weight="800" fill="#ffb703" letter-spacing="1">初代火影 · 仙法・木遁・真数千手 (SAGE ART: TRUE SEVERAL THOUSAND HANDS)</text>
-      <text y="20" font-size="12.5" font-weight="600" fill="#cbd5e1">“Wherever leaves fall, fire burns. Forge resilient architectures that outlive any storm.”</text>
+      <text y="20" font-size="12.5" font-weight="600" fill="#cbd5e1">“Forge resilient architectures that outlive any storm.”</text>
     </g>
   </g>
 

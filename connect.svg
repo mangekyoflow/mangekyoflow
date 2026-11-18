@@ -19,6 +19,11 @@
         50% { filter: drop-shadow(0 0 14px rgba(0, 194, 255, 0.9)) drop-shadow(0 0 24px rgba(0, 194, 255, 0.5)); }
       }
 
+      @keyframes tsGlow {
+        0%, 100% { filter: drop-shadow(0 0 8px rgba(49, 120, 198, 0.6)) drop-shadow(0 0 16px rgba(49, 120, 198, 0.3)); }
+        50% { filter: drop-shadow(0 0 14px rgba(56, 189, 248, 0.9)) drop-shadow(0 0 24px rgba(49, 120, 198, 0.5)); }
+      }
+
       @keyframes fireGlow {
         0%, 100% { filter: drop-shadow(0 0 8px rgba(255, 123, 0, 0.5)); }
         50% { filter: drop-shadow(0 0 16px rgba(255, 123, 0, 0.85)); }
@@ -28,7 +33,11 @@
         animation: neonPulse 3.5s ease-in-out infinite;
       }
 
-      .fire-js {
+      .neon-ts {
+        animation: tsGlow 3.8s ease-in-out infinite;
+      }
+
+      .fire-rust {
         animation: fireGlow 4s ease-in-out infinite;
       }
     ]]></style>
@@ -90,20 +99,50 @@
   <!-- Seamless Vertical Fade Overlay -->
   <rect x="380" y="2" width="160" height="476" fill="url(#connBg)" fill-opacity="0.35"/>
 
-  <!-- Glowing Neon Tech Runes (Floating on left & right of throne matching reference screenshot) -->
-  <!-- A. Floating Neon Cyan React Logo on Left -->
-  <g transform="translate(68, 140)" class="neon-react">
-    <ellipse cx="28" cy="28" rx="26" ry="10" fill="none" stroke="#00c2ff" stroke-width="2.2" stroke-opacity="0.9" transform="rotate(30 28 28)"/>
-    <ellipse cx="28" cy="28" rx="26" ry="10" fill="none" stroke="#00c2ff" stroke-width="2.2" stroke-opacity="0.9" transform="rotate(90 28 28)"/>
-    <ellipse cx="28" cy="28" rx="26" ry="10" fill="none" stroke="#00c2ff" stroke-width="2.2" stroke-opacity="0.9" transform="rotate(150 28 28)"/>
-    <circle cx="28" cy="28" r="4.5" fill="#00f5d4"/>
+  <!-- Glowing Neon Tech Runes (Floating on left & right of throne) -->
+  <!-- A. Floating Neon Cyan React Logo on Left (Upper) -->
+  <g transform="translate(55, 120)" class="neon-react">
+    <circle cx="36" cy="36" r="32" fill="#00c2ff" fill-opacity="0.08"/>
+    <ellipse cx="36" cy="36" rx="34" ry="13" fill="none" stroke="#00c2ff" stroke-width="2.6" stroke-opacity="0.9" transform="rotate(30 36 36)"/>
+    <ellipse cx="36" cy="36" rx="34" ry="13" fill="none" stroke="#00c2ff" stroke-width="2.6" stroke-opacity="0.9" transform="rotate(90 36 36)"/>
+    <ellipse cx="36" cy="36" rx="34" ry="13" fill="none" stroke="#00c2ff" stroke-width="2.6" stroke-opacity="0.9" transform="rotate(150 36 36)"/>
+    <circle cx="36" cy="36" r="5.5" fill="#00f5d4"/>
   </g>
 
-  <!-- B. Floating Golden Tech Rune on Right of Throne -->
-  <g transform="translate(435, 135)" class="fire-js">
+  <!-- B. Floating Rust Fire Rune on Left (Lower) -->
+  <g transform="translate(55, 260)" class="fire-rust">
+    <rect x="0" y="0" width="72" height="72" rx="18" fill="#201008" fill-opacity="0.85" stroke="#f74c00" stroke-width="2.2"/>
+    <circle cx="58" cy="14" r="3.5" fill="#ff7b00"/>
+    <!-- Outer Gear Body -->
+    <circle cx="36" cy="36" r="19.5" fill="#f74c00"/>
+    <polygon points="54.8,33.0 58.7,32.3 58.7,39.7 54.8,39.0" fill="#f74c00"/>
+    <polygon points="51.4,47.1 54.6,49.5 49.5,54.6 47.1,51.4" fill="#f74c00"/>
+    <polygon points="39.0,54.8 39.7,58.7 32.3,58.7 33.0,54.8" fill="#f74c00"/>
+    <polygon points="24.9,51.4 22.5,54.6 17.4,49.5 20.6,47.1" fill="#f74c00"/>
+    <polygon points="17.2,39.0 13.3,39.7 13.3,32.3 17.2,33.0" fill="#f74c00"/>
+    <polygon points="20.6,24.9 17.4,22.5 22.5,17.4 24.9,20.6" fill="#f74c00"/>
+    <polygon points="33.0,17.2 32.3,13.3 39.7,13.3 39.0,17.2" fill="#f74c00"/>
+    <polygon points="47.1,20.6 49.5,17.4 54.6,22.5 51.4,24.9" fill="#f74c00"/>
+    <!-- Inner Cutout -->
+    <circle cx="36" cy="36" r="15" fill="#201008"/>
+    <!-- 5 Chain Holes -->
+    <circle cx="36.0" cy="23.0" r="2.2" fill="#f74c00"/>
+    <circle cx="48.4" cy="32.0" r="2.2" fill="#f74c00"/>
+    <circle cx="43.6" cy="46.5" r="2.2" fill="#f74c00"/>
+    <circle cx="28.4" cy="46.5" r="2.2" fill="#f74c00"/>
+    <circle cx="23.6" cy="32.0" r="2.2" fill="#f74c00"/>
+    <!-- Center Hub -->
+    <circle cx="36" cy="36" r="9.5" fill="#f74c00"/>
+    <!-- Bold R -->
+    <text x="36.5" y="42" text-anchor="middle" font-size="16" font-weight="900" fill="#ffffff" font-family="'Inter', sans-serif">R</text>
+  </g>
+
+  <!-- C. Floating TypeScript Tech Rune on Right of Throne -->
+  <g transform="translate(425, 135)" class="neon-ts">
     <!-- Glowing Rounded Cube -->
-    <rect x="0" y="0" width="56" height="56" rx="14" fill="#241808" fill-opacity="0.8" stroke="#ffb703" stroke-width="2"/>
-    <text x="28" y="37" text-anchor="middle" font-size="22" font-weight="900" fill="#ffd000" class="mono">JS</text>
+    <rect x="0" y="0" width="72" height="72" rx="18" fill="#0d172e" fill-opacity="0.85" stroke="#3178c6" stroke-width="2.2"/>
+    <circle cx="58" cy="14" r="3.5" fill="#38bdf8"/>
+    <text x="36" y="47" text-anchor="middle" font-size="28" font-weight="900" fill="#ffffff" class="mono">TS</text>
   </g>
 
   <!-- 3. Right Content: Contact Channels & CTA -->
