@@ -10,15 +10,15 @@
 
 <br/><br/>
 
-<img src="./ninja-way.svg?v=11" alt="Believe it - then ship it | Jujutsu Kaisen Satoru Gojo &amp; Yuji Itadori Domain Expansion" width="100%"/>
+<img src="./ninja-way.svg?v=14" alt="Believe it - then ship it | Jujutsu Kaisen Satoru Gojo &amp; Yuji Itadori Domain Expansion" width="100%"/>
 
 <br/><br/>
 
-<img src="./jutsu-stack.svg?v=10" alt="Jutsu Arsenal - Tools I fight with | Hashirama Senju Sage Mode &amp; Thousand Hands Buddha" width="100%"/>
+<img src="./jutsu-stack.svg?v=14" alt="Jutsu Arsenal - Tools I fight with | Hashirama Senju Sage Mode &amp; Thousand Hands Buddha" width="100%"/>
 
 <br/><br/>
 
-<img src="./ninja-id.svg?v=15" alt="Akhil Pasham - Wind Hashira Lanyard ID Badge &amp; Field Mission Dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=18" alt="Akhil Pasham - Wind Hashira Lanyard ID Badge &amp; Field Mission Dashboard" width="100%"/>
 
 <br/><br/>
 

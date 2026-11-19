@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="Akhil Pasham — Full-Stack Engineer | Wind Hashira">
-<title>Akhil Pasham — Full-Stack Engineer | Wind Hashira</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="Akhil Pasham - Full-Stack Engineer | Wind Hashira">
+<title>Akhil Pasham - Full-Stack Engineer | Wind Hashira</title>
 <desc>Cinematic hero banner: Wind Hashira Sanemi Shinazugawa as a modern software engineer coding at his workstation, beside Akhil's name, rotating disciplines, and live engineering stats.</desc>
 <defs>
 <style><![CDATA[
@@ -139,7 +139,7 @@
     </g>
   </g>
 
-  <!-- VIDEO VIEWPORT (Sanemi Shinazugawa — Wind Hashira Software Engineer) -->
+  <!-- VIDEO VIEWPORT (Sanemi Shinazugawa - Wind Hashira Software Engineer) -->
   <g mask="url(#vmaskL)">
     <g mask="url(#vmaskB)">
       <g clip-path="url(#videoClip)">
@@ -227,7 +227,7 @@
 
   <!-- Bio -->
   <g transform="translate(52, 344)">
-    <text font-size="15" font-weight="500" fill="#cbd5e1">Engineering high-throughput systems at <tspan font-weight="700" fill="#ffffff">Westpac Group</tspan> —</text>
+    <text font-size="15" font-weight="500" fill="#cbd5e1">Engineering high-throughput systems at <tspan font-weight="700" fill="#ffffff">Westpac Group</tspan> -</text>
     <text y="22" font-size="15" font-weight="500" fill="#cbd5e1">Total Concentration: <tspan font-weight="700" fill="#2fd48a">Wind Breathing</tspan>, one commit at a time.</text>
   </g>
 
